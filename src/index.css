@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Add additional styles as needed */
+  color: white !important;
+font-size: 30px;
+font-family: Courier New;
+letter-spacing: 10px;
+padding-top: 15px;
+display: inline-block;
+}
