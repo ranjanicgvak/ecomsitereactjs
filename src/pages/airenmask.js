@@ -3,7 +3,7 @@ import React from 'react';
   
 const Airenmask = () => {
   return (
-    <div>
+    <div style={{ marginTop: "80vh" }}>
       <h1>Airen mask</h1>
     </div>
   );

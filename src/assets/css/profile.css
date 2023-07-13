@@ -1,0 +1,15 @@
+/* Profile.css */
+
+.card {
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .p-tabmenu {
+    margin-bottom: 20px;
+  }
+  
+  .p-tabmenu .p-menuitem-text {
+    font-weight: bold;
+  }
+  

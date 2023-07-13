@@ -1,0 +1,152 @@
+
+    .text-black {
+    color: black;
+    }
+    .college2 .text-black {
+    color: #00000096;
+    }
+    .college1 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/College-11.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    .college5 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/College-3.jpg);
+        background-size: 120%;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .college5 .btn-default {
+    border-color: white;
+        background: transparent;
+    }
+    .college3 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/College-21.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+    background-position: center;
+    background-color: #b2b3b5;
+    }
+    .college3 .container {
+    min-height: 100vh;
+    display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        padding-bottom: 180px;
+    }
+    .college3 .content {
+    max-width: 400px;
+    text-align: center;
+    }
+    .college3 h4, .college3 h1, .college3 p, .college4 h1 {
+    margin: 0;
+    }
+    .college1 .container, .college4 .container, .college5 .container {
+    display: flex;
+    align-items: center;
+    min-height: calc(100vh - 122px);
+    overflow: hidden;
+    }
+    .college1 .container {
+    align-items: flex-end;
+    justify-content: center;
+    }
+    .college5 .container {
+    justify-content: center;
+    }
+    .college5 .content {
+    position: absolute;
+    bottom: 150px;
+    font-size: 24px;
+    left: calc(50% - 100px);
+    }
+    .college1 .content {
+    text-align: right;
+    font-size: 24px;
+    }
+    .college1 .content p {
+    margin: 0;
+    line-height: 1.2;
+    font-size: 18px;
+    }
+    .college2 {
+    min-height: 100vh;
+    }
+    .college2 .content {
+    max-width: 400px;
+    margin: auto;
+    }
+    .college2 .col-md-12, .college2 .sectionBox {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+    @media (min-width: 320px) and (max-width: 1024px) {
+     .college1 .content {
+    text-align: center;
+    padding-bottom: 200px;
+    }  
+    .college3 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/College-211.jpg);}
+    .college1 .content * {
+    color: black !important;
+    font-size: 16px;
+    }
+    .college1 .content h1 {
+    font-size: 30px;
+    color:inherit;
+    }
+    .college1 {
+        background-size: cover;
+        background-position: left center;
+    }
+    .college2 .content, .college4 .container {
+    text-align: center;
+    }
+    .college3, .college5 {
+    background-size: cover;
+    background-position: top center;
+    }
+    .college4 .container {
+    flex-direction: column;
+    padding-top: 20px;
+    min-height: 50vh;
+    }
+    .flexbox {
+    display: flex;
+    flex-direction: column-reverse;
+    }
+    .college5 {
+    background-size: auto 140%;
+        background-position: center bottom;
+    }
+    .carousel .carousel-control {display: none;}
+    }
+    .bg-grey {
+        background-color: #b2b3b5 !important;
+    }
+    .para {
+    max-width: 340px;
+    color: grey;
+    font-size: 18px;
+        margin-top: 20px;
+    }
+    .carousel-control {
+    opacity: 1;
+    left: -15%;
+    }
+    .carousel-control.right {
+    left: auto;
+    right: -15%;
+    }
+    @media (min-width: 769px) and (max-width: 1024px) {
+    .flexbox {
+        flex-direction: row;
+    }
+    }
+    @media (min-width: 1200px) {
+    .college1 .container {
+    align-items: center;
+    }
+    }
+    

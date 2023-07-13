@@ -1,0 +1,20 @@
+.signincontainer {
+  width: 1170px;
+  margin-top: 200px;
+  padding-left: 400px;
+}
+.user-box {
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 15px #d3d3d3;
+  min-height: 510px;
+  width: 400px; /* Set the desired width */
+
+}
+.ms-mb-35x {
+  margin-bottom: 35px;
+  
+}
+.user-box .form-group {
+  margin-bottom: 10px; /* Adjust the value to set the desired gap */
+}

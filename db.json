@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "firstName": "siva",
+      "lastName": "ranjani",
+      "email": "sivaranjani@cgvakindia.com",
+      "password": "Test@123",
+      "confirmPassword": "Test@123",
+      "role": "enterprise",
+      "dealershipName": "test",
+      "dealershipNumber": "",
+      "city": "Coimbatore",
+      "state": "",
+      "gst": "212312FSF432432",
+      "dealershipCode": "TN234234",
+      "id": 1
+    },
+    {
+      "firstName": "Test ",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "password": "Test123",
+      "confirmPassword": "Test123",
+      "role": "student",
+      "dealershipName": "test1232",
+      "city": "Apk",
+      "state": "",
+      "gst": "32N3N2432",
+      "dealershipCode": "123",
+      "id": 2
+    },
+    {
+      "firstName": "siva",
+      "lastName": "test",
+      "email": "sivatest@gmail.com",
+      "password": "Test@1234",
+      "confirmPassword": "Test@1234",
+      "role": "enterprise",
+      "dealershipName": "test",
+      "dealershipCode": "435435",
+      "city": "test",
+      "state": "",
+      "gst": "4535353",
+      "id": 3
+    },
+    {
+      "firstName": "test siv",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "password": "Test123",
+      "confirmPassword": "Test123",
+      "role": "student",
+      "dealershipName": "test",
+      "dealershipCode": "324723482",
+      "city": "test",
+      "state": "",
+      "gst": "45234234",
+      "id": 4
+    },
+    {
+      "id": 0.5606593820862158,
+      "fname": "Test",
+      "lname": "test",
+      "email": "test@gmail.com",
+      "pword": "Test@123!",
+      "utype": "enterprise",
+      "dname": "test",
+      "dcode": "843574375",
+      "city": "test",
+      "state": "Tamil Nadu",
+      "gstnum": "894298348238"
+    }
+  ]
+}
